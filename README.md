@@ -1,4 +1,8 @@
 # bootstrap-postgres 
+- Create Dockerfile
+- Generate table and data sql
+- Create tables and data
+- Cretaes docker image
 
 ## docker exec
 docker pull postgres:latest
